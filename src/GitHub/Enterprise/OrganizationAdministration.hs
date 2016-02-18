@@ -1,0 +1,2 @@
+module GitHub.Enterprise.OrganizationAdministration where
+
